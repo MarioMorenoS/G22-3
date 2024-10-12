@@ -14,7 +14,6 @@ body {
 footer,
 header {
   background-color: #9ecefa;
-  padding: 30px;
 }
 
 .subtitulos {
@@ -29,6 +28,7 @@ header {
 .contenedor {
   width: 95%;
   margin: 0 auto;
+  padding: 20px;
 }
 
 h1 {
